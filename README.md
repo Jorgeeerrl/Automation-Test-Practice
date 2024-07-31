@@ -29,7 +29,7 @@ Este proyecto automatiza las pruebas del sitio web [Test Automation Practice](ht
 
 ## Detalle de los Casos de Prueba
 
-1. **`test_00 - AUTOMATIZACIÓN COMPLETA.py`**: Ejecuta una serie completa de pruebas automatizadas que incluyen formularios, checks, menús desplegables, colores, calendario, navegación, y más.
+1. **`test_00 - AUTOMATIZACIÓN COMPLETA.py`**: <strong>Ejecuta una serie completa de pruebas automatizadas que incluyen formularios, checks, menús desplegables, colores, calendario, navegación, y más.</strong>
 2. **`test_01 - Formulario.py`**: Prueba la funcionalidad de un formulario de entrada de datos.
 3. **`test_02 - Checks.py`**: Prueba los elementos de tipo checkbox en el formulario.
 4. **`test_03 - Menú Desplegable.py`**: Prueba la funcionalidad de un menú desplegable.
