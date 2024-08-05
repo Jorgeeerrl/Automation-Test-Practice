@@ -30,4 +30,4 @@ class Test_Automation_Test_Practice():
         busqueda=self.driver.find_element(By.ID,"wikipedia-search-result-link")
         assert busqueda.text=="Valencia CF"
         self.driver._switch_to.window(self.driver.window_handles[1])
-        self.driver.close()
+        self.driver.quit()
