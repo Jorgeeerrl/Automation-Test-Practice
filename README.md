@@ -3,6 +3,14 @@
 Este proyecto automatiza las pruebas del sitio web [Test Automation Practice](https://testautomationpractice.blogspot.com) utilizando Selenium WebDriver y Python.
 El Test "test_00 - Automatización Completa.py" utiliza el archivo config.py para la configuración del driver. El resto de tests funcionan independientemente en este sentido.
 
+<div>
+  <div style="display: inline-block;">
+    <img align="left" src="https://github.com/Jorgeeerrl/Automation-Test-Practice/blob/main/recursos/test_practice_1.jpg" height="425" />
+    <img align="left" src="https://github.com/Jorgeeerrl/Automation-Test-Practice/blob/main/recursos/test_practice_2.jpg" height="425" />
+
+</div>
+<br clear="left"/>
+
 ## Estructura del Proyecto
 
 ```
