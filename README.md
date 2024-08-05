@@ -5,8 +5,8 @@ El Test "test_00 - Automatización Completa.py" utiliza el archivo config.py par
 
 <div>
   <div style="display: inline-block;">
-    <img align="left" src="https://github.com/Jorgeeerrl/Automation-Test-Practice/blob/main/recursos/test_practice_1.jpg" height="400" />
-    <img align="left" src="https://github.com/Jorgeeerrl/Automation-Test-Practice/blob/main/recursos/test_practice_2.jpg" height="400" />
+    <img align="left" src="https://github.com/Jorgeeerrl/Automation-Test-Practice/blob/main/recursos/test_practice_1.jpg" height="380" />
+    <img align="left" src="https://github.com/Jorgeeerrl/Automation-Test-Practice/blob/main/recursos/test_practice_2.jpg" height="380" />
 
 </div>
 <br clear="left"/>
