@@ -8,7 +8,7 @@ class Test_Automation_Test_Practice:
     def setup_method(self, method):
 
         chrome_options = Options()
-#       chrome_options.add_argument('--headless=new')
+        chrome_options.add_argument('--headless=new')
         chrome_options.add_argument("--no-first-run")
         chrome_options.add_argument("--no-default-browser-check")
         chrome_options.add_argument('--window-size=1920,1080')
